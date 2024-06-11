@@ -1,0 +1,62 @@
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\appsettings.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\Calendar App.staticwebassets.runtime.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\Calendar App.exe
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\Calendar App.deps.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\Calendar App.runtimeconfig.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\Calendar App.dll
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\bin\Debug\net7.0\Calendar App.pdb
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.csproj.AssemblyReference.cache
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.AssemblyInfoInputs.cache
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.AssemblyInfo.cs
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.csproj.CoreCompileInputs.cache
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.RazorAssemblyInfo.cache
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.RazorAssemblyInfo.cs
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.Calendar App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.build.Calendar App.props
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Calendar App.props
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Calendar App.props
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\scopedcss\bundle\Calendar App.styles.css
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\scopedcss\projectbundle\Calendar App.bundle.scp.css
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.dll
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\refint\Calendar App.dll
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.pdb
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\Calendar App.genruntimeconfig.cache
+C:\Users\geeth\OneDrive\Documents\Personal Projects\Calendar App\Calendar App\obj\Debug\net7.0\ref\Calendar App.dll
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\appsettings.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\Calendar App.staticwebassets.runtime.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\Calendar App.exe
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\Calendar App.deps.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\Calendar App.runtimeconfig.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\Calendar App.dll
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\bin\Debug\net7.0\Calendar App.pdb
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.csproj.AssemblyReference.cache
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.AssemblyInfoInputs.cache
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.AssemblyInfo.cs
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.csproj.CoreCompileInputs.cache
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.RazorAssemblyInfo.cache
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.RazorAssemblyInfo.cs
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.Calendar App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.build.Calendar App.props
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Calendar App.props
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Calendar App.props
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\scopedcss\bundle\Calendar App.styles.css
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\scopedcss\projectbundle\Calendar App.bundle.scp.css
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.dll
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\refint\Calendar App.dll
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.pdb
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\Calendar App.genruntimeconfig.cache
+C:\Users\geeth\OneDrive\Documents\CalendarApp\Calendar App\obj\Debug\net7.0\ref\Calendar App.dll

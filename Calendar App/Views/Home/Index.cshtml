@@ -1,0 +1,63 @@
+﻿@model IEnumerable<CellModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table id="calendarGrid1" width="100%">
+        <tr>
+            <th>Sunday</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednessday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+            <th>Saturday</th>
+        </tr>
+        @{
+            int iter = 0;
+            int count = 0;
+            int innerCount = 0;
+            
+            @while(count < 6)
+            {
+                count++;
+                <tr>
+                   @while(innerCount < 7) 
+                   {
+                       innerCount++; 
+                    <td id="@Model.ElementAt(iter).Id">
+                            
+                            @if(Model.ElementAt(iter).dateDD > 0) 
+                            {
+                                <label>@Model.ElementAt(iter).dateDD</label>
+                            }
+                    </td>
+                    iter++;
+                }
+                @{
+                    innerCount = 0;
+                }
+                   
+                </tr>
+            }
+        }
+</table>
+<table width="100%">
+    <td>
+        <a asp-action="Previous" asp-controller="Home" asp-route-year="@ViewBag.Year" asp-route-month="@ViewBag.Month">Previous</a>
+    </td>
+    <td>
+        <a asp-action="Next" asp-controller="Home" asp-route-year="@ViewBag.Year" asp-route-month="@ViewBag.Month">Next</a>
+    </td>
+</table>
+@ViewBag.Year <br/> @ViewBag.Month
+<table width="100%">
+    <td>
+        @Html.ActionLink("Previous","Previous","Home",new {year = ViewBag.Year, month = ViewBag.Month})
+    </td>
+    <td>
+        @Html.ActionLink("Next","Next","Home",new {year = ViewBag.Year, month = ViewBag.Month})
+    </td>
+</table>
+@*}*@
